@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Uhhh", "DarkTheme")
+local Window = Library.CreateLib("Fantic Script Hub", "DarkTheme")
 local Main = Window:NewTab("Main")
 local Hm = Main:NewSection("Main")
 local toggleSpeedWalking = 20
